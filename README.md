@@ -14,9 +14,9 @@
 ```sh
 git clone https://github.com/HACKOSAN/mini-fetch.git
 
-mv mini-fetch .config/
+mv mini-fetch ~/.config/
 
-cd .config/mini-fetch
+cd ~/.config/mini-fetch
 
 sudo make 
 
